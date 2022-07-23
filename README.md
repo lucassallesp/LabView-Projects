@@ -14,7 +14,7 @@ Finally, the program sends every second in the form of a string into a text file
 This project aim to control the level of a reservoir through the use of a pump and an ultrasonic sensor. The pump is controlled so that the level is maintained at or closer to the value set in the program interface. When the pump is at its maximum speed and cannot maintain the desired level, the system issues an alert after a predetermined time. 
 If the level exceeds the chosen value, the pump is kept off until its activation is necessary. The current Level is shown on the interface along with the desired level.
 
-# HOW TO RUN THE CODES IN LABVIEW?
+# How to Run the Codes in LabView?
 1) Download the Vi's and the SubVi's along with its respectives .ino codes
 2) Run .ino archive into your arduino module if there is in the chosen project
 3) Make sure to have the serial port correctly selected
